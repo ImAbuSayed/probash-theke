@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/probash-theke/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Probash Theke](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Probash Theke](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এক ঘোরে হারাই আমি বারবার
+> দূরের এই প্রবাসে তুমি শুধু আমার
+> শুকনো এই ঠোঁটে আজ তোমারই পিপাসা
+> দূরত্ব মুছে দিয়ে দাও ভালোবাসা
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
