@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Probash Theke
+
+This log tracks the cryptographic history and versioning for the song **Probash Theke** (probash-theke).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:24:48.680567 | `v1` | `cf2715d29bd716c2691ea664a815af85e01f45436aa303a7c60dc0f28a910e98` | `67598f57998d101f9ebc9dea54422d3cb9efe03808509332455e9d4a3bc17b4c` | `2026-05-08_probash-theke-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
